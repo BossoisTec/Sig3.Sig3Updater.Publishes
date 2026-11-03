@@ -1,3 +1,3 @@
 # Sig3.Sig3Updater.Publishes
 
-Repositorio de publicacoes de TESTE do SIG3.
+Repositorio de publicacoes do SIG3.
